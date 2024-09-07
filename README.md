@@ -11,17 +11,6 @@
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+CodeWhiteWeb;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
 </p>
 
-
-<!--
-**WENXEX/WENXEX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--- snake -->
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-    <img src="/resources/grid-snake.svg" alt="snake" style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);">
-  </a>
-</div>
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
